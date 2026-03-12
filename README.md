@@ -1,5 +1,5 @@
 # TP Système de Boissons - POO Python
-Projet réalisé par [Votre Nom].
+Projet réalisé par EL HADI AHLAM.
 
 ## Concepts utilisés :
 - Pattern Decorator pour les ingrédients (Lait, Sucre, Caramel).
